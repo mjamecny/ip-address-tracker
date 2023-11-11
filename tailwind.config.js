@@ -40,6 +40,10 @@ export default {
       "very-dark-gray": "hsl(0, 0%, 17%)",
       "dark-gray": "hsl(0, 0%, 59%)",
     },
+    backgroundImage: {
+      mobile: "url('/imgs/pattern-bg-mobile.svg')",
+      desktop: "url('/imgs/pattern-bg-desktop.svg')",
+    },
   },
   plugins: [],
 }
