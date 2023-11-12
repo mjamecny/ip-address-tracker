@@ -42,7 +42,7 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [ipapi](https://ipapi.co) - API for getting info about IP address
+- [ipify](https://geo.ipify.org/) - API for getting info about IP addresses and domains
 - [tailwindcss](https://tailwindcss.com) - Utility-first CSS framework
 - [Leaflet](https://leafletjs.com) - JS library for mobile-friendly interactive maps
 - [React Leaflet](https://react-leaflet.js.org/) - React components for Leaflet maps
