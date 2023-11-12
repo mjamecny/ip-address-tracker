@@ -41,8 +41,8 @@ export default {
       "dark-gray": "hsl(0, 0%, 59%)",
     },
     backgroundImage: {
-      mobile: "url('pattern-bg-mobile.png')",
-      desktop: "url('pattern-bg-desktop.png')",
+      mobile: "url('../public/pattern-bg-mobile.png')",
+      desktop: "url('../public/pattern-bg-desktop.png')",
     },
   },
   plugins: [],
